@@ -1,5 +1,5 @@
 # Overview
-Topicmappr replaces and extends the `kafka-reassign-partition` tool bundled with Kafka. Notable features:
+Topicmappr replaces and extends the `kafka-reassign-partition` tool bundled with Kafka.  DataDog and metricsfetcher are required. Notable features:
 
 **Cluster Storage Rebalancing, Partition Bin-packing**
 
